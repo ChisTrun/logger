@@ -1,5 +1,3 @@
-github.com/ChisTrun/logger v0.0.0-20250810115018-2248d59e8b89 h1:BMnHaOFz9gvOBeB2qUwfk+q1dfuB+dmqDtgK47mN6hc=
-github.com/ChisTrun/logger v0.0.0-20250810115018-2248d59e8b89/go.mod h1:80RE1TrdomXU3nqsNnjb56EIDb5hBhqEPkfAc2oZ5lw=
 github.com/DataDog/appsec-internal-go v1.13.0 h1:aO6DmHYsAU8BNFuvYJByhMKGgcQT3WAbj9J/sgAJxtA=
 github.com/DataDog/appsec-internal-go v1.13.0/go.mod h1:9YppRCpElfGX+emXOKruShFYsdPq7WEPq/Fen4tYYpk=
 github.com/DataDog/datadog-agent/comp/core/tagger/origindetection v0.66.1 h1:tUnckL/NqYQiSN4ceOe5E/qM9vxmU3p77RdHgXC3VNE=

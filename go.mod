@@ -1,9 +1,8 @@
-module github.com/chistrun/logger
+module github.com/ChisTrun/logger
 
 go 1.24.4
 
 require (
-	github.com/ChisTrun/logger v0.0.0-20250810115018-2248d59e8b89
 	go.uber.org/zap v1.27.0
 	google.golang.org/grpc v1.74.2
 	google.golang.org/protobuf v1.36.7

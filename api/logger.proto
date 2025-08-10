@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package greyhole.logger;
 
-option go_package = "github.com/chistrun/logger/api;logger";
+option go_package = "github.com/ChisTrun/logger/api;logger";
 
 message Logger {
   enum Level {
